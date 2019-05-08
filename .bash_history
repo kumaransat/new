@@ -53,3 +53,35 @@ pwd
 sudo add-apt-repository ppa:webupd8team/java
 sudo apt update
 sudo apt install oracle-java8-installer
+git init
+ls
+git add origin https://github.com/kumaransat/new.git
+git login
+git --help
+clear
+git status
+git branch
+git remote origin add add        Add file contents to the index
+clear
+git remote origin add https://github.com/kumaransat/new.git
+git remote add origin https://github.com/kumaransat/new.git
+git push origin master
+git branch
+git brach child
+git branch child
+git branch
+git checkout child
+touch child.txt
+git add .
+git commit -m "adding child.txt"
+ls
+git branch
+ls
+git checkout master
+ls
+gitmerge child
+git merge child
+ls
+git push origin child
+touch a.html
+vi a.html
